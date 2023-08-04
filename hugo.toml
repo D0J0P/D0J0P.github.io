@@ -1,0 +1,30 @@
+baseURL = 'https://D0J0P.github.io/'
+languageCode = 'en-us'
+title = 'Derick Peterson'
+theme = 'hugo-PaperMod'
+
+[params.profileMode]
+enabled = true
+title = "Derick Peterson" # optional default will be site title
+# subtitle = "This is the subtitle"
+imageUrl = "/images/Derick.jpg" # optional
+# imageTitle = "<title of image as alt>" # optional
+imageWidth = 250 # custom size
+imageHeight = 250 # custom size
+imageFit = "contain" # Use "cover" to crop and resize the image
+
+[[params.profileMode.buttons]]
+name = "About Me"
+url = "/about/"
+
+[[params.profileMode.buttons]]
+name = "Résumé"
+url = "https://drive.google.com/file/d/1QwHj9DwNgmkNlCl2ymq2WNnMwoX9cpfw/view?usp=sharing"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/D0J0P"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+# url = "https://www.linkedin.com/in/yourprofile"
