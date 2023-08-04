@@ -19,7 +19,7 @@ url = "/about/"
 
 [[params.profileMode.buttons]]
 name = "Résumé"
-[Download Resume](/Derick Peterson IT Help Desk Résumé.pdf)
+url = "/Derick%20Peterson%20IT%20Help%20Desk%20Résumé.pdf"
 
 [[params.socialIcons]]
 name = "GitHub"
