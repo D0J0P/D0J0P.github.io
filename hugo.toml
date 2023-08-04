@@ -19,7 +19,7 @@ url = "/about/"
 
 [[params.profileMode.buttons]]
 name = "Résumé"
-url = "https://drive.google.com/file/d/1QwHj9DwNgmkNlCl2ymq2WNnMwoX9cpfw/view?usp=sharing"
+[Download Résumé](/Derick Peterson IT Help Desk Résumé.pdf)
 
 [[params.socialIcons]]
 name = "GitHub"
